@@ -18,7 +18,7 @@ A stainless-steel implant surrogate was used in conjunction with a custom loadin
 ## Results
 Average measurements for LDVT and DT methods were computed at all loading increments (Fig. 1). Over the entire dataset, average micromotion via LVDT was 158% ± 65% higher than average micromotion via DT. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dcunni9/5.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dcunni9/5.embed" ?showlink=false></iframe>
 
 Fig 1: Average micromotion measured using both digital tracking and LDVT methods. This is an interactive plot so feel free to investigate further. 
 
