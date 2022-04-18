@@ -18,6 +18,10 @@ A stainless-steel implant surrogate was used in conjunction with a custom loadin
 ## Results
 Average measurements for LDVT and DT methods were computed at all loading increments (Fig. 1). Over the entire dataset, average micromotion via LVDT was 158% ± 65% higher than average micromotion via DT. 
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~dcunni9/5.embed"></iframe>
+
+Fig 1: Average micromotion measured using both digital tracking and LDVT methods. This is an interactive plot so feel free to investigate further. 
+
 ## Conclusion
 
 The use of LVDTs is of value when determining the effect of various implant designs and fixation techniques in parametric studies. However, they would appear to not accurately quantify absolute micromotion at the interface. An absolute measurement at the interface is better served using the OT system employed herein.
