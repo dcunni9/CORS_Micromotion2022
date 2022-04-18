@@ -1,6 +1,7 @@
 # Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
 
-Title: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants 
+Presenting Author: David E. Cunningham 
+Contributing Authors: Dr. G. Athwal, Dr. J. Johnson
 
 # Make a README
 
