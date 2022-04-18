@@ -1,6 +1,7 @@
 # Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
 
 Presenting Author: David E. Cunningham 
+
 Contributing Authors: Dr. G. Athwal, Dr. J. Johnson
 
 [![Resume](https://github.com/dguo/make-a-readme/workflows/CI/badge.svg)](https://dcunni9.github.io/)
