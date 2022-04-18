@@ -29,6 +29,5 @@ The use of LVDTs is of value when determining the effect of various implant desi
 
 ## Other Abstracts by HULC
 
---> - [Art of README](https://github.com/noffle/art-of-readme)
---> - [Awesome README](https://github.com/matiassingers/awesome-readme)
---> - [Standard Readme](https://github.com/RichardLitt/standard-readme)
+- [InsertLinkHere](https://github.com/dcunni9)
+
