@@ -92,5 +92,5 @@ The use of LVDTs is of value when determining the effect of various implant desi
 
 ## Other Abstracts by HULC
 
-- [InsertLinkHere](https://github.com/dcunni9)
+- [Effect of Varying Force Profiles - FEA](https://dcunni9.github.io/CORS_ForceProfile2022/)
 
