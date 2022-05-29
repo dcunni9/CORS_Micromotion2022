@@ -81,7 +81,7 @@ var n,i=t("./lib/build-log"),a=t("./lib/epsilon"),o=t("./lib/intersecter"),s=t("
 </body>
 </html>
 
-Fig 1: Applied Load vs Percent Difference between LDVT and Digital Tracking Micromotion Measurements. This is an interactive plot so feel free to investigate further. Please note that this plot is better investigated in landscape view on a phone. 
+Figure 1: Applied Load vs Percent Difference between LDVT and Digital Tracking Micromotion Measurements. This is an interactive plot so feel free to investigate further. Please note that this plot is better investigated in landscape view on a phone. 
 
 ## Conclusion
 
